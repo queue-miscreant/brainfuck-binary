@@ -22,4 +22,5 @@ Move halved bit back
 Repeat until power reduced to 0
         ]
 Output
-        >>[<]
+        !>>>[>]<.,[-]<<<<+
+]
